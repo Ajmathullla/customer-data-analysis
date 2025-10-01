@@ -1,0 +1,21 @@
+Customer ID,Order Date,Order Value (?),Delivery Time (Days),Return Status,Product Rating (1?5),Repeat Purchase,Complaints Raised,Delivery Partner,NPS
+C101,4/14/2025,"1,250",6,No,4,No,No,Delhivery,7
+C102,5/1/2025,850,5,No,3,No,Yes (leakage),Shadowfax,4
+C103,4/22/2025,"1,100",9,Yes,2,No,Yes (broken item),Delhivery,3
+C104,6/3/2025,"1,700",7,No,4,Yes,No,Bluedart,8
+C105,5/11/2025,600,8,No,3,No,Yes (delayed),Delhivery,5
+C106,6/18/2025,"2,200",4,No,5,Yes,No,Bluedart,9
+C107,6/21/2025,"1,400",10,Yes,1,No,Yes (wrong item),Shadowfax,2
+C108,5/25/2025,950,6,No,3,No,Yes (damaged pack),Delhivery,4
+C109,6/15/2025,"1,300",7,No,4,No,No,Ecom Express,6
+C110,6/10/2025,"1,550",9,No,2,No,Yes (no COD available),Shadowfax,3
+C111,6/27/2025,"1,850",6,No,5,Yes,No,Bluedart,9
+C112,7/1/2025,780,9,No,3,No,Yes (late night delivery),Delhivery,5
+C113,6/30/2025,"1,300",10,Yes,2,No,Yes (wrong product),Shadowfax,3
+C114,7/5/2025,"2,000",5,No,5,Yes,No,Bluedart,9
+C115,7/10/2025,870,8,No,3,No,Yes (packaging torn),Delhivery,4
+C116,7/11/2025,"1,600",4,No,4,Yes,No,Bluedart,8
+C117,7/14/2025,990,11,Yes,1,No,Yes (extreme delay),Shadowfax,2
+C118,7/12/2025,"2,100",5,No,5,Yes,No,Bluedart,10
+C119,7/15/2025,750,9,No,3,No,Yes (late & no update),Delhivery,4
+C120,7/16/2025,"1,450",6,No,4,Yes,No,Ecom Express,7
